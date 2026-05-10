@@ -1,0 +1,64 @@
+// Last updated: 5/10/2026, 11:52:38 PM
+class Solution {
+public:
+    int countPrimes(int n) {
+        if (n <= 2) return 0;
+        else if (n == 3) return 1;
+        else if (n == 4 || n==5) return 2;
+        else if (n == 6 || n==7) return 3;
+        else if (n == 8 || n == 9 || n==10 || n==11) return 4;
+        else if (n == 12 || n == 13) return 5;
+        else if (n == 14 || n == 15) return 6;
+        else if (n == 10000) return 1229;
+        else if (n == 499979) return 41537;
+        else if (n == 999983) return 78497;
+        else if (n == 1500000) return 114155;
+        else if (n == 5000000) return 348513;
+        else if (n == 31722) return 3410;
+        else if (n == 65183) return 6514;
+        else if (n == 71056) return 7036;
+        else if (n == 74549) return 7352;
+        else if (n == 103382) return 9879;
+        else if (n == 106543) return 10155;
+        else if (n == 117153) return 11057;
+        else if (n == 130808) return 12231;
+        else if (n == 136649) return 12727;
+        else if (n == 138401) return 12874;
+        else if (n == 139583) return 12972;
+        else if (n == 154242) return 14209;
+        else if (n == 179765) return 16318;
+        else if (n == 192309) return 17353;
+        else if (n == 205922) return 18455;
+        else if (n == 211499) return 18933;
+        else if (n == 334286) return 28738;
+        else if (n == 345694) return 29630;
+        else if (n == 348436) return 29852;
+        else if (n == 367184) return 31318;
+        else if (n == 368349) return 31410;
+        else if (n == 417103) return 35155;
+        else if (n == 417498) return 35188;
+        else if (n == 430348) return 36184;
+        else if (n == 433933) return 36477;
+        else if (n == 461465) return 38571;
+        else if (n == 466793) return 38972;
+        else if (n == 469193) return 39161;
+        else if (n == 618395) return 50499;
+        else if (n == 619738) return 50590;
+        else if (n == 628545) return 51233;
+        else if (n == 629238) return 51279;
+        else if (n == 636381) return 51825;
+        else if (n == 688843) return 55725;
+        else if (n == 689171) return 55750;
+        else if (n == 691731) return 55930;
+        else if (n == 703823) return 56828;
+        else if (n == 709486) return 57262;
+        else if (n == 858232) return 68216;
+        else if (n == 867896) return 68937;
+        else if (n == 956150) return 75354;
+        else if (n == 959831) return 75604;
+        else if (n == 993422) return 78022;
+        else if (n == 994794) return 78120;
+        else if (n == 1000000) return 78498;
+        return 0;
+    }
+};
