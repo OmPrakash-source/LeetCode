@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findComplement(int num) {
+        if (num == 0) return 1;
         string st = "";
 
         while(num > 0){
@@ -20,9 +21,11 @@ public:
         }
         cout<<st<< " ";
         int result = 0;
-
-        for (char c : st) {
-            result = result * 2 + (c - '0');
+        int j = st.size() - 1;
+        
+        for (int i = 0; i < st.size(); i++) {
+            result += (st[i] - '0') * (1 << j);
+            j--;
         }
 
         return result;
