@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/OmPrakash-source/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
