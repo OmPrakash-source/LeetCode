@@ -6,10 +6,7 @@ public:
         unordered_set<string>s;
         for(string st : words){
             string str = "";
-            for(char ch : st){
-                int i = ch - 'a';
-                str += temp[i];
-            }
+            for(char ch : st) str += temp[ch - 'a'];
             s.insert(str);
         }
     return s.size();
