@@ -5,11 +5,11 @@ public:
 
         for(int i=0; i<nums.size(); i++){
             int rem = target - nums[i];
-            if(mpp.find(rem) != mpp.end()){
-                return {mpp[rem], i};
+            if(!mpp.empty() && mpp.count(rem)){
+                return {i, mpp[rem]};
             }
             mpp[nums[i]] = i;
-        } 
+        }
         return {-1,-1};
         
     }
