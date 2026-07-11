@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/OmPrakash-source/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
