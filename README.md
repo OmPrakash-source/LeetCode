@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/OmPrakash-source/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
