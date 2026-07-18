@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/OmPrakash-source/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/OmPrakash-source/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/OmPrakash-source/LeetCode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/OmPrakash-source/LeetCode/tree/master/0072-edit-distance) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OmPrakash-source/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
