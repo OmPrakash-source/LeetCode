@@ -9,6 +9,6 @@ public:
         while(i < first.size() && i < last.size() && first[i] == last[i]){
             i++;
         }
-        return last.substr(0, i);
+        return first.substr(0, i);
     }
 };
