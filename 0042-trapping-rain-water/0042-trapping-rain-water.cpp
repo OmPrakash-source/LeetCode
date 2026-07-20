@@ -1,20 +1,16 @@
 class Solution {
 public:
-    int trap(vector<int>& nums) {
-        int n = nums.size();
-        int result = 0, lm = 0, rm = 0;
-        int i = 0, j = n-1;
-        while(i < j){
-            if(nums[i] > lm) lm = nums[i];
-            if(nums[j] > rm) rm = nums[j];
-
-            int mini = min(lm, rm);
-            if(nums[j] > nums[i]){
-                result += mini-nums[i++];
+    int trap(vector<int>& height) {
+        int lm = 0, rm = 0, l = 0, r = height.size()-1, count = 0;
+        while(l < r){
+            if(height[l] > lm) lm = height[l];
+            if(height[r] > rm) rm = height[r];
+            if(height[l] < height[r]){
+                count += min(lm, rm) - height[l++];
             }else{
-                result += mini-nums[j--];
+                count += min(lm, rm) - height[r--];
             }
         }
-        return result;
+        return count;
     }
 };
