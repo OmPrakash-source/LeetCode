@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/OmPrakash-source/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/OmPrakash-source/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/OmPrakash-source/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
+| [0583-delete-operation-for-two-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/OmPrakash-source/LeetCode/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1143-longest-common-subsequence](https://github.com/OmPrakash-source/LeetCode/tree/master/1143-longest-common-subsequence) |
