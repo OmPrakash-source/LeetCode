@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/OmPrakash-source/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/OmPrakash-source/LeetCode/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
 ## Backtracking
