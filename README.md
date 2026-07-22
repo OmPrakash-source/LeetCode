@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/OmPrakash-source/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
