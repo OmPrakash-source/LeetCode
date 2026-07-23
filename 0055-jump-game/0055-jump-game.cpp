@@ -26,8 +26,8 @@ public:
         for(int i=0; i<n; i++){
             if(i > maxi) return false;
             maxi = max(maxi, i+nums[i]);
-            if(maxi >= n-1)return true;
+            // if(maxi >= n-1)return true;
         }
-        return false;
+        return true;
     }
 };
