@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OmPrakash-source/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/OmPrakash-source/LeetCode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
