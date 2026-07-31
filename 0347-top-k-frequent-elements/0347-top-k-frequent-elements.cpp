@@ -7,7 +7,7 @@ public:
         vector<pair<int,int>>freq;
         for(auto it : mpp) freq.push_back({it.second, it.first});
 
-        sort(freq.begin(), freq.end(),greater<pair<int,int>>());
+        sort(freq.rbegin(), freq.rend());
         nums.erase(nums.begin(),nums.end());
 
         int i=0;
