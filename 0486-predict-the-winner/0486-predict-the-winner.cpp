@@ -2,6 +2,7 @@ class Solution {
 public:
     int func(int l, int r, vector<int>&nums,vector<vector<int>>&dp){
         if(l > r) return 0;
+        if(l == r) return nums[l];
         if(dp[l][r] != -1) return dp[l][r];
         int ltake = nums[l] - func(l+1, r, nums, dp);
         int rtake = nums[r] - func(l, r-1, nums, dp);
