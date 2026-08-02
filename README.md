@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/OmPrakash-source/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/OmPrakash-source/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/OmPrakash-source/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
