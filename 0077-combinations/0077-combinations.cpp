@@ -1,7 +1,7 @@
 class Solution {
 public:
-    vector<vector<int>>result;
-    void func(int idx, int n, int k, vector<int>&temp){
+    
+    void func(int idx, int n, int k, vector<int>&temp, vector<vector<int>> &result){
         if(temp.size() == k){
             result.push_back(temp);
             return;
@@ -10,13 +10,14 @@ public:
             return;
         }
         temp.push_back(idx);
-        func(idx+1, n, k, temp);
+        func(idx+1, n, k, temp, result);
         temp.pop_back();
-        func(idx+1, n, k, temp);
+        func(idx+1, n, k, temp, result);
     }
     vector<vector<int>> combine(int n, int k) {
         vector<int>temp;
-        func(1, n, k, temp);
+        vector<vector<int>>result;
+        func(1, n, k, temp, result);
         return result;
     }
 };
