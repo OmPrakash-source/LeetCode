@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/OmPrakash-source/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/OmPrakash-source/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/OmPrakash-source/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/OmPrakash-source/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
