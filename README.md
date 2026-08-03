@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0136-single-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0136-single-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OmPrakash-source/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/OmPrakash-source/LeetCode/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0090-subsets-ii) |
 ## Tree
 |  |
 | ------- |
