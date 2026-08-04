@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/OmPrakash-source/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/OmPrakash-source/LeetCode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Enumeration
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/OmPrakash-source/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/OmPrakash-source/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0090-subsets-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/OmPrakash-source/LeetCode/tree/master/0183-customers-who-never-order) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
