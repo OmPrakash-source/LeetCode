@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -422,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
