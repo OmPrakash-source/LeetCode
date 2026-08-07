@@ -424,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/OmPrakash-source/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
