@@ -12,10 +12,10 @@ public:
             i++;
         }
         curr = list2;
+        
+        while(curr->next) curr = curr->next;
+        
         str->next = list2;
-        while(curr->next){
-            curr = curr->next;
-        }
         curr->next = end;
         return list1;
     }
