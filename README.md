@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1143-longest-common-subsequence](https://github.com/OmPrakash-source/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/OmPrakash-source/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/OmPrakash-source/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
