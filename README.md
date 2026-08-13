@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/OmPrakash-source/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/OmPrakash-source/LeetCode/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/OmPrakash-source/LeetCode/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
