@@ -4,7 +4,6 @@ public:
         int i=0, j=0, n=s.size();
         int count = 0;
         int win = INT_MAX;
-        string st = "";
         string result = "";
         while(j < n){
             if(s[j] == '1') count++;
