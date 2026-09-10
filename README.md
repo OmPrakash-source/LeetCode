@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmPrakash-source/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmPrakash-source/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
