@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/OmPrakash-source/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/OmPrakash-source/LeetCode/tree/master/0069-sqrtx) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmPrakash-source/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
