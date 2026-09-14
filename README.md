@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/OmPrakash-source/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0877-stone-game) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OmPrakash-source/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmPrakash-source/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmPrakash-source/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0445-add-two-numbers-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/OmPrakash-source/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmPrakash-source/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
