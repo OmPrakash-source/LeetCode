@@ -5,7 +5,7 @@ public:
         int i=0, j=n-1;
         int result = 0;
         while(i < j){
-             result = max(result, min(height[i], height[j]) * ((j+1) - (i+1)));
+            result = max(result, min(height[i], height[j]) * (j-i));
             if(height[i] < height[j]) i++;
             else j--;
         }
