@@ -17,7 +17,6 @@ public:
                     temp += s[i];
                     i++;
                 }
-                cout<<temp<<" ";
                 if(mpp.find(temp) != mpp.end()) str += mpp[temp];
                 else str += '?';
             }else{
