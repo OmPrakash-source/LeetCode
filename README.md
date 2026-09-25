@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/OmPrakash-source/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1143-longest-common-subsequence](https://github.com/OmPrakash-source/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmPrakash-source/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
