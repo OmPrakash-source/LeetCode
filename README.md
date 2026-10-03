@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmPrakash-source/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/OmPrakash-source/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
