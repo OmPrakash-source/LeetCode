@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/OmPrakash-source/LeetCode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/OmPrakash-source/LeetCode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/OmPrakash-source/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/OmPrakash-source/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
