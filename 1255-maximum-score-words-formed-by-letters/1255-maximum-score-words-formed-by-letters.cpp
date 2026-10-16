@@ -1,9 +1,7 @@
 class Solution {
 public:
-    int func(int idx, vector<string>& words, vector<int>freq, unordered_map<char, int> &mpp){
+    int func(int idx, vector<string>& words, vector<int>&freq, unordered_map<char, int> &mpp){
         if(idx == words.size()) return 0;
-        int skip = func(idx+1, words, freq, mpp);
-
         vector<int>temp = freq;
         string word = words[idx];
         int result = 0;
@@ -16,8 +14,7 @@ public:
             result += mpp[ch];
             temp[ch-'a']--;
         }
-        
-        
+        int skip = func(idx+1, words, freq, mpp);
         int take = 0;
         if(flag){
             for(char ch : word) freq[ch - 'a']--;
