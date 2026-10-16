@@ -1,34 +1,31 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int longest = 1;
-        
-        // unordered_set<int> m(nums.begin(), nums.end());
-        if(nums.size() == 0) return 0;
+        if(nums.size() <= 1) return nums.size();
 
-        // for (auto i : m) {
-        //     if (m.find(i - 1) == m.end()) { 
-        //         int count = 1;
-        //         while (m.find(i + count) != m.end()) {
-        //             count++;
-        //         }
-        //         longest = max(longest, count);
+
+        // unordered_set<int>st;
+        // for(int i : nums) st.insert(i);
+        // int result = 0;
+        // for(int i:nums){
+        //     int count = 1;
+        //     if(st.find(i-1) == st.end()){
+        //         while(st.find(i + count) != st.end()) count++;
         //     }
+        //     result = max((int)result, (int)count);
         // }
+        // return result;
 
         sort(nums.begin(), nums.end());
         int count = 1;
+        int maxi = 1;
         for(int i=1; i<nums.size(); i++){
-            if(nums[i-1] == nums[i]) continue;
-            else if((nums[i-1] + 1) != nums[i])count = 1;
-            else{
-                count++;
-                cout<<nums[i]<<" "<<nums[i-1]<<endl;
-            }
+            if(nums[i-1] == nums[i])continue;
+            else if((nums[i-1] + 1) != nums[i]) count = 1;
+            else count++;
 
-            longest = max(longest, count);
+            if(maxi < count) maxi = count;
         }
-        return longest;
+        return maxi;
     }
 };
-auto init = atexit([](){ofstream("display_runtime.txt")<<"0";});
