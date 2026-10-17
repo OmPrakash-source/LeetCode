@@ -10,7 +10,7 @@ public:
             sum += nums[i];
             int rem = sum % k;
 
-            if (first.count(rem)) {
+            if (first.find(rem) != first.end()) {
                 if (i - first[rem] >= 2)
                     return true;
             } else {
