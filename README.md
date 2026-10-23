@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/OmPrakash-source/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/OmPrakash-source/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/OmPrakash-source/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/OmPrakash-source/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/OmPrakash-source/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/OmPrakash-source/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/OmPrakash-source/LeetCode/tree/master/0139-word-break) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OmPrakash-source/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/OmPrakash-source/LeetCode/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
 ## Matrix
