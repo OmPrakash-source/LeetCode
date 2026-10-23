@@ -7,7 +7,7 @@ public:
     // }
 
     int func(int r, int c, vector<vector<int>> &dp){
-        // if(r < 0 || c < 0) return 0;
+        if(r < 0 || c < 0) return 0;
         if(r == 0 || c == 0) return 1;
         if(dp[r][c] != -1) return dp[r][c];
         return dp[r][c] = func(r-1, c, dp) + func(r, c-1, dp);
