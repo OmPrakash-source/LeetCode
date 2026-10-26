@@ -18,17 +18,16 @@ public:
     int countIslands(vector<vector<int>>& grid, int k) {
         int n = grid.size();
         int m = grid[0].size();
-        // vector<vector<bool>>vis(n, vector<bool>(m, false));
         int cnt = 0;
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                long long sum = 0;
-                bool flag = false;
+                
                 if(grid[i][j] != 0){
+                    long long sum = 0;
                     dfs(i, j, sum, grid);
-                    flag = true;
+                    if(sum % k == 0) cnt++;
                 }
-                if(flag && (sum % k == 0)) cnt++;
+                
             }
         }
         return cnt;
