@@ -12,17 +12,11 @@ public:
             while(mpp.size() < j-i+1 || k < j-i+1){
                 mpp[nums[i]]--;
                 if(mpp[nums[i]] == 0) mpp.erase(nums[i]);
-                // cout<<"Sum before removeing "<<nums[i]<<": sum is "<<sum<<endl;
-                sum -= nums[i];
-                // cout<<"Sum after removeing "<<nums[i]<<": so sum become "<<sum<<endl;
-                i++;
+                sum -= nums[i++];
             }
-            if(j-i+1 == k){
-                if(maxi < sum){
-                    // cout<<"updating maxi: "<<sum<<" on "<< j <<"th idx"<<endl;
+            if(j-i+1 == k)
+                if(maxi < sum)
                     maxi = sum;
-                }
-            }
             j++;
         }
         return maxi;
