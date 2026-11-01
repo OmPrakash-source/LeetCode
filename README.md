@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/OmPrakash-source/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/OmPrakash-source/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OmPrakash-source/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
