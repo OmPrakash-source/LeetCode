@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/OmPrakash-source/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OmPrakash-source/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/OmPrakash-source/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/OmPrakash-source/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/OmPrakash-source/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
