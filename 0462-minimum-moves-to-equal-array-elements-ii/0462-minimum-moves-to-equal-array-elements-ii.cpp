@@ -4,13 +4,13 @@ public:
         int n = nums.size();
         int midIdx = (n-1)/2;
         sort(nums.begin(), nums.end());
-        int target = nums[midIdx];
         int i = 0, j = n-1;
         int cnt = 0;
 
         while(i < midIdx || j > midIdx){
             if(i < midIdx) cnt += nums[midIdx] - nums[i++];
             if(j > midIdx) cnt += nums[j--] - nums[midIdx];
+
         }
         return cnt;
 
