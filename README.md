@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OmPrakash-source/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/OmPrakash-source/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/OmPrakash-source/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0055-jump-game) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/OmPrakash-source/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/OmPrakash-source/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/OmPrakash-source/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/OmPrakash-source/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OmPrakash-source/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/OmPrakash-source/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/OmPrakash-source/LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/OmPrakash-source/LeetCode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
