@@ -1,62 +1,43 @@
 class Solution {
-public:
-    int findNext(vector<int>& st, int endTime, int idx) {
-        int n = st.size();
-        int l = idx + 1, r = n - 1, ans = n;
-
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
-            if (st[mid] >= endTime) {
-                ans = mid;
-                r = mid - 1;
+    int n;
+    int findNext(int st, int target, vector<vector<int>> &value){
+        int result = n;
+        int end = n-1;
+        while(st <= end){
+            int mid = st + (end - st)/2;
+            if(value[mid][0] >= target){
+                result = mid;
+                end = mid-1;
+            }else{
+                st = mid+1;
             }
-            else l = mid + 1;
         }
-        return ans;
+        return result;
     }
 
-    int dfs(int idx, vector<int>& st, vector<int>& et, vector<int>& profit, vector<int>& dp) {
+    int dfs(int idx, vector<vector<int>> &value, vector<int>&dp){
+        if(idx >= n) return 0;
 
-        int n = st.size();
-        if (idx >= n) return 0;
-
-        if (dp[idx] != -1) return dp[idx];
-
-        // int next = idx + 1;
-        // while (next < n && st[next] < et[idx]) next++; // (Start of next is grater then end of current) 
-
-        // int next = lower_bound(st.begin() + idx + 1, st.end(), et[idx]) - st.begin();
-
-        int next = findNext(st, et[idx], idx);
-
-        int take = profit[idx] + dfs(next, st, et, profit, dp);
-
-        int skip = dfs(idx + 1, st, et, profit, dp);
-
+        if(dp[idx] != -1) return dp[idx];
+        int skip = dfs(idx+1, value, dp);
+        int next = findNext(idx+1, value[idx][1], value);
+        int take = value[idx][2] + dfs(next, value, dp);
         return dp[idx] = max(take, skip);
     }
-
-    int jobScheduling(vector<int>& st, vector<int>& et, vector<int>& profit) {
-
-        int n = st.size();
-        vector<vector<int>> jobs(n, vector<int>(3, 0));
-
-        for (int i = 0; i < n; i++){
-            jobs[i][0] = st[i];
-            jobs[i][1] = et[i];
-            jobs[i][2] = profit[i];
+public:
+    int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+        n=startTime.size();
+        vector<vector<int>>value(n, vector<int>(3, 0));
+        for(int i=0; i<n; i++){
+            value[i][0] = startTime[i];
+            value[i][1] = endTime[i];
+            value[i][2] = profit[i];
         }
 
-        sort(jobs.begin(), jobs.end());
+        sort(value.begin(), value.end());
+        vector<int>dp(n, -1);
 
-        for (int i = 0; i < n; i++) {
-            st[i] = jobs[i][0];
-            et[i] = jobs[i][1];
-            profit[i] = jobs[i][2];
-        }
+        return dfs(0, value, dp);
 
-        vector<int> dp(n, -1);
-
-        return dfs(0, st, et, profit, dp);
     }
 };
