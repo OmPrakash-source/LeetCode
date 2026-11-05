@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OmPrakash-source/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/OmPrakash-source/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/OmPrakash-source/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/OmPrakash-source/LeetCode/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/OmPrakash-source/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/OmPrakash-source/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/OmPrakash-source/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/OmPrakash-source/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
