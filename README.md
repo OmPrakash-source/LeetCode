@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/OmPrakash-source/LeetCode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1046-last-stone-weight](https://github.com/OmPrakash-source/LeetCode/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/OmPrakash-source/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/OmPrakash-source/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/OmPrakash-source/LeetCode/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
