@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/OmPrakash-source/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OmPrakash-source/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/OmPrakash-source/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/OmPrakash-source/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/OmPrakash-source/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OmPrakash-source/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Tree
 |  |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
