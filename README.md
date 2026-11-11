@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/OmPrakash-source/LeetCode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/OmPrakash-source/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/OmPrakash-source/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/OmPrakash-source/LeetCode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/OmPrakash-source/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/OmPrakash-source/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmPrakash-source/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/OmPrakash-source/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OmPrakash-source/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/OmPrakash-source/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OmPrakash-source/LeetCode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/OmPrakash-source/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/OmPrakash-source/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
