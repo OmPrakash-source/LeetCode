@@ -10,7 +10,6 @@ public:
             int r = row+delr[i];
             int c = col+delc[i];
             if(r < n && c < m && r >= 0 && c >= 0 && board[r][c] == 'O'){
-                // board[r][c] = 'V';
                 dfs(board, r, c);
             }
         }
