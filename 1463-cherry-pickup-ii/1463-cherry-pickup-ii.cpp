@@ -5,14 +5,11 @@ public:
     int delc[3] = {-1, 0, 1};
     int n, m;
     int dfs(int r, int c1, int c2, vector<vector<vector<int>>>& dp, vector<vector<int>>& grid) {
-        if(c1 < 0 || c1 >= m || c2 < 0 || c2 >= m)
-            return -1e9;
-
+        
         if(r == n - 1) {
             int cherries = grid[r][c1];
             if(c1 != c2)
                 cherries += grid[r][c2];
-
             return cherries;
         }
 
@@ -34,9 +31,10 @@ public:
                 int nc1 = c1 + delc[i];
                 int nc2 = c2 + delc[j];
 
-                int next = dfs(nr, nc1, nc2, dp, grid);
-
-                maxi = max(maxi, next);
+                if(nr < n && nc1 >= 0 && nc1 < m && nc2 >= 0 && nc2 < m) {
+                    int next = dfs(nr, nc1, nc2, dp, grid);
+                    maxi = max(maxi, next);
+                }
             }
         }
 
