@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2409-count-days-spent-together](https://github.com/OmPrakash-source/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
