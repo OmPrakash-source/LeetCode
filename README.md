@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2236-root-equals-sum-of-children](https://github.com/OmPrakash-source/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/OmPrakash-source/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/OmPrakash-source/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2236-root-equals-sum-of-children](https://github.com/OmPrakash-source/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
