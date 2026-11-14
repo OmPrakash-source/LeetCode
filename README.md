@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/OmPrakash-source/LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/OmPrakash-source/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmPrakash-source/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/OmPrakash-source/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/OmPrakash-source/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/OmPrakash-source/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/OmPrakash-source/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmPrakash-source/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/OmPrakash-source/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OmPrakash-source/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OmPrakash-source/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/OmPrakash-source/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/OmPrakash-source/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
