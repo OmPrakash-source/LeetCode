@@ -4,7 +4,7 @@ public:
     int findnext(vector<vector<int>>& events, int nextStart, int currEnd){
         int l = nextStart;
         int r = n-1;
-        int result = n;
+        int result = n; // if result not found so we move out-of-bound so return 0
         while(l <= r){
             int midIdx = l + (r-l) / 2;
             if(events[midIdx][0] > currEnd){
