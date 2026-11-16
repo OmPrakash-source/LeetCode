@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2409-count-days-spent-together](https://github.com/OmPrakash-source/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/OmPrakash-source/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/OmPrakash-source/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
