@@ -1,34 +1,43 @@
 class Solution {
 public:
-    int n;
-    int findnext(vector<vector<int>>& events, int nextStart, int currEnd){
-        int l = nextStart;
-        int r = n-1;
-        int result = n; // if result not found so we move out-of-bound so return 0
-        while(l <= r){
-            int midIdx = l + (r-l) / 2;
-            if(events[midIdx][0] > currEnd){
-                result = midIdx;
-                r = midIdx-1;
+    int findNext(vector<vector<int>>& events, int st, int target){
+        int ans = events.size();
+        int end = events.size()-1;
+
+        while(st <= end){
+            int mid = st + (end-st)/2;
+            if(events[mid][0] > target){
+                ans = mid;
+                end = mid-1;
             }else{
-                l = midIdx+1;
+                st = mid+1;
             }
         }
-        return result;
+        return ans;
     }
-    int dfs(int idx, vector<vector<int>>& events, vector<vector<int>>&dp, int k){
-        if(k <= 0 || idx >= n) return 0;
+    int func(int idx, int k, vector<vector<int>>& events, vector<vector<int>>&dp){
+        if(idx >= events.size() || k <= 0) return 0;
+
         if(dp[idx][k] != -1) return dp[idx][k];
 
-        int skip = dfs(idx+1, events, dp, k);
-        int next = findnext(events, idx+1, events[idx][1]);
-        int take = events[idx][2] + dfs(next, events, dp, k - 1);
+        int skip = func(idx+1, k, events, dp);
+
+        // vector<int>target = {events[idx][1] , INT_MAX, INT_MAX};
+        // int next = upper_bound(events.begin() + idx + 1, events.end(), target) - events.begin();
+
+        int next = findNext(events, idx+1, events[idx][1]);
+
+        int take = events[idx][2] + func(next, k - 1, events, dp);
+
         return dp[idx][k] = max(take, skip);
     }
     int maxValue(vector<vector<int>>& events, int k) {
-        n = events.size();
-        vector<vector<int>> dp(n, vector<int>(k + 1, -1));
+        int n = events.size();
+        int m = events[0].size();
+
         sort(events.begin(), events.end());
-        return dfs(0, events, dp, k);
+        vector<vector<int>>dp(n+1, vector<int>(k+1, -1));
+
+        return func(0, k, events, dp);
     }
 };
