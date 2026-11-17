@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmPrakash-source/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/OmPrakash-source/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/OmPrakash-source/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/OmPrakash-source/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/OmPrakash-source/LeetCode/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/OmPrakash-source/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/OmPrakash-source/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/OmPrakash-source/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OmPrakash-source/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Enumeration
 |  |
@@ -631,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OmPrakash-source/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OmPrakash-source/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0397-integer-replacement) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -652,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/OmPrakash-source/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/OmPrakash-source/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/OmPrakash-source/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
@@ -869,4 +876,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OmPrakash-source/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
