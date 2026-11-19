@@ -55,8 +55,8 @@ public:
         priority_queue<pair<int,int>>q;
         while(j < n){
             q.push({nums[j], j});
-            if((j-i+1) == k){
-                while(q.top().second < i) q.pop();
+            if(j-i+1 == k){
+                while(q.top().second < i) q.pop();//outside of window 
                 ans.push_back(q.top().first);
                 i++;
             }
