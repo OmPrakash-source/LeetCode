@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmPrakash-source/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/OmPrakash-source/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2008-maximum-earnings-from-taxi](https://github.com/OmPrakash-source/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/OmPrakash-source/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2008-maximum-earnings-from-taxi](https://github.com/OmPrakash-source/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmPrakash-source/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1641-count-sorted-vowel-strings](https://github.com/OmPrakash-source/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/OmPrakash-source/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/OmPrakash-source/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/OmPrakash-source/LeetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OmPrakash-source/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/OmPrakash-source/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/OmPrakash-source/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [2008-maximum-earnings-from-taxi](https://github.com/OmPrakash-source/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
