@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/OmPrakash-source/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmPrakash-source/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/OmPrakash-source/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/OmPrakash-source/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OmPrakash-source/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmPrakash-source/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/OmPrakash-source/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/OmPrakash-source/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/OmPrakash-source/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2456-most-popular-video-creator](https://github.com/OmPrakash-source/LeetCode/tree/master/2456-most-popular-video-creator) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/OmPrakash-source/LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmPrakash-source/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/OmPrakash-source/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
