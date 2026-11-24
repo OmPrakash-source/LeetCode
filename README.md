@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/OmPrakash-source/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/OmPrakash-source/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/OmPrakash-source/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/OmPrakash-source/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/OmPrakash-source/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/OmPrakash-source/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/OmPrakash-source/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/OmPrakash-source/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/OmPrakash-source/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/OmPrakash-source/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/OmPrakash-source/LeetCode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/OmPrakash-source/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/OmPrakash-source/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/OmPrakash-source/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/OmPrakash-source/LeetCode/tree/master/0412-fizz-buzz) |
